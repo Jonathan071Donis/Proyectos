@@ -1,0 +1,45 @@
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.csproj.AssemblyReference.cache
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.Form1.resources
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.Properties.Resources.resources
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.csproj.GenerateResource.cache
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\bin\Debug\proyecto2.exe.config
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\bin\Debug\proyecto2.exe
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\bin\Debug\proyecto2.pdb
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.exe
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.pdb
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.Menu.resources
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.Ventas.resources
+C:\Users\demol\OneDrive\Escritorio\docsUMG\proyect\proyecto2\proyecto2\obj\Debug\proyecto2.Cliente.resources
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\bin\Debug\proyecto2.exe.config
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\bin\Debug\proyecto2.exe
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\bin\Debug\proyecto2.pdb
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.csproj.AssemblyReference.cache
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.Cliente.resources
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.Form1.resources
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.Menu.resources
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.Properties.Resources.resources
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.Ventas.resources
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.csproj.GenerateResource.cache
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.exe
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.pdb
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.AdminStok.resources
+C:\Users\demol\Documents\UMG 7tmo\BDD 2\proyecto2.0\proyecto2\obj\Debug\proyecto2.login.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\bin\Debug\proyecto2.exe.config
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\bin\Debug\proyecto2.exe
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\bin\Debug\proyecto2.pdb
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Cliente.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Properties.Resources.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.exe
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.pdb
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Vista_Inventario.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Principal.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Opciones.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.VENTAS_PRODUCTOS.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.AdminStok.resources

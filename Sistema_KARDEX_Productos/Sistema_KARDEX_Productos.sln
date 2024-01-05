@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria_de_Clases", "Libreria_de_Clases\Libreria_de_Clases.csproj", "{9F9E39A0-83C0-4047-B1C2-769412D3A36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KardexConsola", "KardexConsola\KardexConsola.csproj", "{AE036E49-E46B-4857-B2F3-DF63D18B9B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9E39A0-83C0-4047-B1C2-769412D3A36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9E39A0-83C0-4047-B1C2-769412D3A36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9E39A0-83C0-4047-B1C2-769412D3A36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9E39A0-83C0-4047-B1C2-769412D3A36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE036E49-E46B-4857-B2F3-DF63D18B9B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE036E49-E46B-4857-B2F3-DF63D18B9B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE036E49-E46B-4857-B2F3-DF63D18B9B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE036E49-E46B-4857-B2F3-DF63D18B9B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C495D99-FB2B-4958-825C-3F5A9142576F}
+	EndGlobalSection
+EndGlobal

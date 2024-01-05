@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\bin\Debug\proyecto2.exe.config
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\bin\Debug\proyecto2.exe
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\bin\Debug\proyecto2.pdb
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\Proyecto_BaseDatos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\Proyecto_BaseDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.AdminStok.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Vista_Inventario.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Principal.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Opciones.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.Properties.Resources.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.VENTAS_PRODUCTOS.resources
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\Proyecto_BaseDatos.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\Proyecto_BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.exe
+C:\Users\HP\Desktop\cursos 2023\Base de datos ll\proyecto2.01\proyecto2.01\proyecto2\obj\Debug\proyecto2.pdb
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\bin\Debug\proyecto2.exe.config
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\bin\Debug\proyecto2.exe
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\bin\Debug\proyecto2.pdb
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\Proyecto_BaseDatos.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\Proyecto_BaseDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\proyecto2.AdminStok.resources
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\proyecto2.Vista_Inventario.resources
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\proyecto2.Principal.resources
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\proyecto2.Opciones.resources
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\proyecto2.Properties.Resources.resources
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\proyecto2.VENTAS_PRODUCTOS.resources
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\Proyecto_BaseDatos.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\Proyecto_BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\proyecto2.exe
+C:\Users\HP\Documents\Proyecto_Final_Base_Datos\Proyecto_BaseDatos\Proyecto_BaseDatos\obj\Debug\proyecto2.pdb

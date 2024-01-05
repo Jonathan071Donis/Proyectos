@@ -1,0 +1,35 @@
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.exe
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.deps.json
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.runtimeconfig.json
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.runtimeconfig.dev.json
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.dll
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.pdb
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.AssemblyInfo.cs
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.dll
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.pdb
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.genruntimeconfig.cache
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.exe
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.deps.json
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.runtimeconfig.json
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.runtimeconfig.dev.json
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.dll
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\bin\Debug\netcoreapp3.1\KardexConsola.pdb
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.csproj.AssemblyReference.cache
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.AssemblyInfoInputs.cache
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.AssemblyInfo.cs
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.csproj.CoreCompileInputs.cache
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.dll
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.pdb
+C:\Users\Rudy Reyes Medina\OneDrive\Escritorio\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.genruntimeconfig.cache
+E:\2021 tareas\programacion 2 A\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.csproj.AssemblyReference.cache
+E:\2021 tareas\programacion 2 A\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.GeneratedMSBuildEditorConfig.editorconfig
+E:\2021 tareas\programacion 2 A\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.AssemblyInfoInputs.cache
+E:\2021 tareas\programacion 2 A\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.AssemblyInfo.cs
+E:\2021 tareas\programacion 2 A\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.csproj.CoreCompileInputs.cache
+E:\2021 tareas\programacion 2 A\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.dll
+E:\2021 tareas\programacion 2 A\Sistema_KARDEX_Productos\KardexConsola\obj\Debug\netcoreapp3.1\KardexConsola.pdb

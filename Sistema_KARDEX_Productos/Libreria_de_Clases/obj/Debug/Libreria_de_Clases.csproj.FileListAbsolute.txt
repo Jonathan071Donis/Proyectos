@@ -1,0 +1,12 @@
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Cuarto semestre\programacion2\Sistema_KARDEX_Productos\Libreria_de_Clases\bin\Debug\Libreria_de_Clases.dll
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Cuarto semestre\programacion2\Sistema_KARDEX_Productos\Libreria_de_Clases\bin\Debug\Libreria_de_Clases.pdb
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Cuarto semestre\programacion2\Sistema_KARDEX_Productos\Libreria_de_Clases\obj\Debug\Libreria_de_Clases.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Cuarto semestre\programacion2\Sistema_KARDEX_Productos\Libreria_de_Clases\obj\Debug\Libreria_de_Clases.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Cuarto semestre\programacion2\Sistema_KARDEX_Productos\Libreria_de_Clases\obj\Debug\Libreria_de_Clases.dll
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Cuarto semestre\programacion2\Sistema_KARDEX_Productos\Libreria_de_Clases\obj\Debug\Libreria_de_Clases.pdb
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\Libreria_de_Clases\bin\Debug\Libreria_de_Clases.dll
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\Libreria_de_Clases\bin\Debug\Libreria_de_Clases.pdb
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\Libreria_de_Clases\obj\Debug\Libreria_de_Clases.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\Libreria_de_Clases\obj\Debug\Libreria_de_Clases.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\Libreria_de_Clases\obj\Debug\Libreria_de_Clases.dll
+C:\Users\kevin\Downloads\Sistema_KARDEX_Productos\Sistema_KARDEX_Productos\Libreria_de_Clases\obj\Debug\Libreria_de_Clases.pdb

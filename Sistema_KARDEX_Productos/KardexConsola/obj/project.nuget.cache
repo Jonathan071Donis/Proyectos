@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jyMj2NwNFJ4IZgG9D6fl1JaS5h7OdAz0m73iA9q6Q5JE/XTuIsJ/MRWZthWGI0+Jz1NQTZS4EJl2H2tIQJP+MQ==",
+  "success": true,
+  "projectFilePath": "E:\\2021 tareas\\programacion 2 A\\Sistema_KARDEX_Productos\\KardexConsola\\KardexConsola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
